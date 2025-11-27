@@ -1,0 +1,7 @@
+name: CreeperBeGone
+version: 1.0.0
+main: de.t0g3pii.creeperbegone.CreeperBeGonePlugin
+api-version: '1.21'
+authors: [ "t0g3pii" ]
+description: Prevent creepers from damaging the world.
+
